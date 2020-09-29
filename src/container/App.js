@@ -62,7 +62,6 @@ class App extends Component {
             </div>
 
             <div className="illustrations">
-              <img src={require("../assets/male.svg")} alt="male-worker"></img>
               <img
                 src={require("../assets/female.svg")}
                 alt="female-worker"
