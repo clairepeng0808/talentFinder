@@ -1,0 +1,27 @@
+.search-box-with-icon {
+  position: relative;
+  margin: 2.5rem 0;
+  padding: 1.25rem;
+  width: 250px;
+  border: 2px solid #667eea;
+  border-radius: 4px;
+}
+.search-box {
+  width: 90%;
+  border: none;
+  outline: transparent;
+  margin-left: 0.5rem;
+  font: inherit;
+}
+
+.search-box-with-icon i {
+  color: #667eea;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+  background-color: black;
+}
+
+/* .search-box:focus {
+  border: 2px solid #8e37d7;
+} */ ;
