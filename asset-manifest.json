@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/talentFinder/static/css/main.b0c777f1.chunk.css",
-    "main.js": "/talentFinder/static/js/main.cb5fc58c.chunk.js",
-    "main.js.map": "/talentFinder/static/js/main.cb5fc58c.chunk.js.map",
+    "main.js": "/talentFinder/static/js/main.10c83075.chunk.js",
+    "main.js.map": "/talentFinder/static/js/main.10c83075.chunk.js.map",
     "runtime-main.js": "/talentFinder/static/js/runtime-main.a2d44a51.js",
     "runtime-main.js.map": "/talentFinder/static/js/runtime-main.a2d44a51.js.map",
     "static/js/2.8e1ae552.chunk.js": "/talentFinder/static/js/2.8e1ae552.chunk.js",
     "static/js/2.8e1ae552.chunk.js.map": "/talentFinder/static/js/2.8e1ae552.chunk.js.map",
     "index.html": "/talentFinder/index.html",
-    "precache-manifest.b0fbf6a7f99b2121ec2814aa05882798.js": "/talentFinder/precache-manifest.b0fbf6a7f99b2121ec2814aa05882798.js",
+    "precache-manifest.ef7dbcb54baaca3bb225aebc5099e26d.js": "/talentFinder/precache-manifest.ef7dbcb54baaca3bb225aebc5099e26d.js",
     "service-worker.js": "/talentFinder/service-worker.js",
     "static/css/main.b0c777f1.chunk.css.map": "/talentFinder/static/css/main.b0c777f1.chunk.css.map",
     "static/js/2.8e1ae552.chunk.js.LICENSE.txt": "/talentFinder/static/js/2.8e1ae552.chunk.js.LICENSE.txt",
-    "static/media/female.svg": "/talentFinder/static/media/female.07947d56.svg"
+    "static/media/female.svg": "/talentFinder/static/media/female.4b979fdd.svg",
+    "static/media/male.svg": "/talentFinder/static/media/male.07947d56.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a2d44a51.js",
     "static/js/2.8e1ae552.chunk.js",
     "static/css/main.b0c777f1.chunk.css",
-    "static/js/main.cb5fc58c.chunk.js"
+    "static/js/main.10c83075.chunk.js"
   ]
 }
