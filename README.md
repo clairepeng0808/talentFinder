@@ -9,7 +9,7 @@
 <p>
 A simple talent search application built with React. State management with Redux, structured with actions, middlewares, reducers, and store. Modern cardlist view + instant search. You can use it as a template to apply to your own apps.
 </p>
-<p><strong><a target='_blank' href='https://clairepeng0808.github.io/talentFinder/'>
+<p><strong><a target="_blank" href="https://clairepeng0808.github.io/talentFinder/">
 Click here for Live demo</a></strong>
 </p>
 </div>
