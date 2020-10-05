@@ -13,7 +13,7 @@ export const setSearchField = (text) => ({
 
 export const requestRobots = () => (dispatch) => {
   dispatch({ type: REQUEST_ROBOTS_PENDING });
-  fetch("https://api.mocki.io/v1/89d4c4de")
+  fetch("https://api.mocki.io/v1/ebd181fc")
     // fetch -> to make requests to the server
     .then((response) => response.json())
     .then((data) => dispatch({ type: REQUEST_ROBOTS_SUCCESS, payload: data }))
