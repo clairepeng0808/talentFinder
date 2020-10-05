@@ -2,12 +2,9 @@
 
 <div align='center'>
 <p>
-    <img src="https://img.shields.io/website?down_message=offline&style=flat-square&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fclairepeng0808.github.io%2FtalentFinder%2F
-    " />
-    <img src="https://img.shields.io/npm/v/react?label=react&style=flat-square&color=9cf
-    " />
-    <img src="https://img.shields.io/npm/v/redux?label=redux&style=flat-square&color=9cf
-    " />
+    <img src="https://img.shields.io/website?down_message=offline&style=flat-square&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fclairepeng0808.github.io%2FtalentFinder%2F" />
+    <img src="https://img.shields.io/npm/v/react?label=react&style=flat-square&color=9cf" />
+    <img src="https://img.shields.io/npm/v/redux?label=redux&style=flat-square&color=9cf" />
 </p>
 <p>
 A simple talent search application built with React. State management with Redux, structured with actions, middlewares, reducers, and store. Modern cardlist view + instant search. You can use it as a template to apply to your own apps.
