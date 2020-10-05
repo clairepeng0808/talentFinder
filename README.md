@@ -12,7 +12,7 @@ A simple talent search application built with React. State management with Redux
 <p><strong><a href="https://clairepeng0808.github.io/talentFinder/">
 Click here for Live demo</a></strong>
 </p>
-<iframe src="https://drive.google.com/file/d/1hpwlGT5H0DaFh6LI1N6NDuVbb4dsFkgX/preview" width="640" height="480"></iframe>
+<img src="./src/assets/demo.gif"/>
 </div>
 
 ## ✨ Features
