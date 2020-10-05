@@ -1,68 +1,79 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# <div align='center'>👭 Talent Finder</div>
 
-## Available Scripts
+<div align='center'>
+<p>
+    <img src="https://img.shields.io/website?down_message=offline&style=flat-square&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fclairepeng0808.github.io%2FtalentFinder%2F
+    " />
+    <img src="https://img.shields.io/npm/v/react?label=react&style=flat-square&color=9cf
+    " />
+    <img src="https://img.shields.io/npm/v/redux?label=redux&style=flat-square&color=9cf
+    " />
+</p>
+<p>
+A simple talent search application built with React. State management with Redux, structured with actions, middlewares, reducers, and store. Modern cardlist view + instant search. You can use it as a template to apply to your own apps.
+</p>
+<p><strong><a target='_blank' href='https://clairepeng0808.github.io/talentFinder/'>
+Click here for Live demo</a></strong>
+</p>
+</div>
 
-In the project directory, you can run:
+## ✨ Features
 
-### `npm start`
+- Search candidates by the positions<br>
+- Modern/Responsive card list<br>
+- Gradient buttons with hover effect<br>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ⚙️ Installation
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+From your command line, first clone Talent Finder:
 
-### `npm test`
+### Clone this repository
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+$ git clone https://github.com/clairepeng0808/talentFinder
 
-### `npm run build`
+<em>Go into the repository</em>
+$ cd talentFinder
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Remove current origin repository
+$ git remote remove origin
+```
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Install the dependencies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+# Install dependencies
+$ npm install
 
-### `npm run eject`
+# Start development server
+$ npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+After installation, open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🤟 Languages
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB
+" />
+<img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white
+" />
 
-## Learn More
+## 🛠️ Technologies Used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [Redux](https://www.npmjs.com/package/redux) - a predictable state container for JavaScript apps.
+- [React Redux](https://www.npmjs.com/package/react-redux) - Official React bindings for Redux.
+- [Redux Logger](https://www.npmjs.com/package/redux-logger) - Logger for Redux
+- [Redux Thunk](https://www.npmjs.com/package/redux-thunk) - Thunk middleware for Redux.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 💎 Credits
 
-### Code Splitting
+This project is inspired by the one of the projects ([RoboFriend](https://github.com/aneagoie/robofriends)) in an Udemy course: The Complete Web Developer in 2020. Thanks for the support from the instructor [Andrei](https://github.com/aneagoie) and the [ZTM community](https://github.com/zero-to-mastery).
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## 📚 License
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<img src="https://img.shields.io/github/license/clairepeng0808/talentFinder?style=flat-square&color=9cf
+" />
