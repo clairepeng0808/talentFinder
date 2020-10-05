@@ -2,14 +2,14 @@
 
 <div align='center'>
 <p>
-    <img src="https://img.shields.io/website?down_message=offline&style=flat-square&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fclairepeng0808.github.io%2FtalentFinder%2F" />
+    <a href="https://clairepeng0808.github.io/talentFinder/"><img src="https://img.shields.io/website?down_message=offline&style=flat-square&up_color=brightgreen&up_message=online&url=https%3A%2F%2Fclairepeng0808.github.io%2FtalentFinder%2F" /></a>
     <img src="https://img.shields.io/npm/v/react?label=react&style=flat-square&color=9cf" />
     <img src="https://img.shields.io/npm/v/redux?label=redux&style=flat-square&color=9cf" />
 </p>
 <p>
 A simple talent search application built with React. State management with Redux, structured with actions, middlewares, reducers, and store. Modern cardlist view + instant search. You can use it as a template to apply to your own apps.
 </p>
-<p><strong><a href="https://clairepeng0808.github.io/talentFinder/" target="blank">
+<p><strong><a href="https://clairepeng0808.github.io/talentFinder/">
 Click here for Live demo</a></strong>
 </p>
 </div>
@@ -50,7 +50,7 @@ After installation, open [http://localhost:3000](http://localhost:3000) to view 
 
 ## 🤟 Languages
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img style="display:inline-block" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -60,12 +60,12 @@ After installation, open [http://localhost:3000](http://localhost:3000) to view 
 
 - [Redux](https://www.npmjs.com/package/redux) - a predictable state container for JavaScript apps.
 - [React Redux](https://www.npmjs.com/package/react-redux) - Official React bindings for Redux.
-- [Redux Logger](https://www.npmjs.com/package/redux-logger) - Logger for Redux
+- [Redux Logger](https://www.npmjs.com/package/redux-logger) - Logger middleware for Redux
 - [Redux Thunk](https://www.npmjs.com/package/redux-thunk) - Thunk middleware for Redux.
 
 ## 💎 Credits
 
-This project is inspired by the one of the projects ([RoboFriend](https://github.com/aneagoie/robofriends)) in an Udemy course: The Complete Web Developer in 2020. Thanks for the support from the instructor [Andrei](https://github.com/aneagoie) and the [ZTM community](https://github.com/zero-to-mastery).
+This project is inspired by the one of the projects ([RoboFriend](https://github.com/aneagoie/robofriends)) in the course: The Complete Web Developer in 2020. Thanks for the support from the instructor [Andrei](https://github.com/aneagoie) and the [ZTM community](https://github.com/zero-to-mastery).
 
 ## 📚 License
 
