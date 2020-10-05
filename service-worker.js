@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/talentFinder/precache-manifest.ef7dbcb54baaca3bb225aebc5099e26d.js"
+  "/talentFinder/precache-manifest.0439887f76db174b202daa2917f18eea.js"
 );
 
 self.addEventListener('message', (event) => {
