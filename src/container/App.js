@@ -10,7 +10,7 @@ const mapStateToProps = (state) => {
     searchField: state.searchRobots.searchField,
     talentList: state.requestRobots.robots,
     isPending: state.requestRobots.isPending,
-    error: state.requestRobots.isPending,
+    error: state.requestRobots.error,
   };
 };
 
